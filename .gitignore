@@ -1,0 +1,5 @@
+*.csv
+*.jpg
+__pycache__
+credentials.py
+
